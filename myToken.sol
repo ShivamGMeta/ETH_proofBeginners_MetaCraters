@@ -25,7 +25,7 @@ contract MyToken {
     // mapping variable here
     mapping(address => uint) public balances;
     //keeps track of account balance at each address or wallet
-    //key- address and value is balance 
+    //key is the address and value is balance 
 
     // mint function
     function mint(address _address, uint _value) public {
