@@ -31,6 +31,8 @@ The contract has a burn function that decreases the total supply and the balance
     Check if the balance of the _address is greater than or equal to _value.
     If true, decrease the totalSupply by _value.
     Decrease the balance of the _address by _value.
+    
+![image](https://github.com/ShivamGMeta/ETH_proofBeginners_MetaCraters/assets/149230344/81724d1f-4a5c-4663-a863-99d7f32af89b)
 
 # Usage
 Deploy the MyToken contract to a supported Ethereum network.
